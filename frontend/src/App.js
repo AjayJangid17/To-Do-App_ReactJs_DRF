@@ -150,6 +150,7 @@ strikeUnstrike(task){
   })
 }
 
+// Render
 
   render(){
     var tasks = this.state.todolist
